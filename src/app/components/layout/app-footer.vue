@@ -1,0 +1,5 @@
+<template>
+  <footer class="main-footer full">
+    <span>footer</span>
+  </footer>
+</template>
